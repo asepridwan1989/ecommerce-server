@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "racinglaboratory-203506",
+  "private_key_id": "a10974d6deeb717c3f8f145dd2cc923d6d7c6bcc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQCcA1WnW+zuTq\nu3E7vIUI/9bMF6sTDfWWZMvMeJJvjkBeZqRxSnUz0LTIRMvZuhyJDQgDMBXk651y\nvVDIk8JXUS0pwSrJPS5yvYbvcsRMyvFkLbjMF96ExXeOjMEdjxUYrjKzBdNdhyE0\nAGFY7OVTjVreUAodoNa9VMsi5RuZNEVVlSM07wB5c5a7O1lBc8Gy8X8U6SoE/R7I\nx4GvdKcUKmdxjS4clVQjbiP9qD4BQ8V5VQZNSkw4gssxY+0496sbZzaYWvCLCjv7\nA7ckfxasMh5cHtNSxnif7+Bha1islyqWEzaE2d2+6VPkUxjzhtYZlMJjqRk+UIVT\n66PKXv3NAgMBAAECggEADXPz9/9HifU7HGrOobxJJhHVRBFrwKmwbe9Ktog9f/VE\n+FXO4HyeI6GlbyXzwLqmSb6L/BjJ8anC3r6bUL0tXhQjxYV2TNkl/cl/xlA3nXeq\nMH48awZIH3Hdj1xOyKiOBrCNGsKProakgQZdRTDci5CihanLXase99NZ54HFTRzU\nVUrAZljTBOCKOkjkcG1czjOHRgcy6pEMPl1HgxwzWoK3eIUHeARa4cUSEsRIzalY\ny5ohKx8c+3H+sXIArejtB8CltBvRWhmeo8uJT89tKctm2X9XKuCW9Y8ZJDnHDLOD\nrTM0aG/oHJy2MqdsAaj5c9u+2G/z1os41XOPVBepiQKBgQDyIwjmtKZkk8vv9gda\njMXseFyXDD7+GMX5S4HQyuuJwxIkDnlR9fqvM+lPniZZSiuNTeQqma8yEluLYWV7\neFPbe6f1ICC0WPCm7D+qWNkHbK3cs3A8+OvWr4/CWR7xgdmaXs9cDDF4cC2cBL9w\nbEvJHKGkB985drzSyUhhMlSdEwKBgQDb8u9w/OMqWiTdz4Z3MjbhNy3D0S8B5PgI\npp5fzfYPBJ3h0TpHXk8VKYLn9FNoKV+XbsxEIM15b4w9TyqnZe8kB8kTCEOR+hr8\nv915cddKvAoTsjbxjPjYaoM7MFo4JGyYwBdrGsSh7Havk14ZTQ+ctCYPASGwB2wb\n2UMq75G1nwKBgQDeAD8t/t08A8IMXV86pyzkdSo3FvQ+VgpVWeRIwXOY2DAuvNKA\n0e0oa4jzBYYVgYpSwOJ8KHHXj7s9HGxF+vmvlz1T4kP59j2WXa61iUZap0r0udQj\nIvpf2JEO2FUlii8veNPXihplWTyH+lZnRfNqDYUp9km0zueqvv9Mli+73wKBgBU7\nD+3CG1NdPC3E+F/NEwsOPnamXHk8VszO+H6a7ONqOKsxfQSij9OlHCOzq9FkHPwL\nD+CLognUwJ6yY5Wg+0JpFfmmVI9kqvI2uvQcDwIBwJ9CFpeeWe7Z6Szvb+X3bhwY\nfqox/UT8BEDSYsTicV1Y7kuIem35aXAOurMMSO5VAoGBALVuA/wndKDUZ5ZKgcsS\nwuJZcGfXkEhq9gobOlaLihxZJAA3M5aA5G2gjdjDghbo2tbFDLi9/K+huzHNaFqn\nXSmDOFIOlSm5rrn0HwCUmaXMu0+yembmYAIMxotI8fpHwDjehu4mzdkxSnHR60Au\nFKGZQKoGw5RfgB/kjkQVIynD\n-----END PRIVATE KEY-----\n",
+  "client_email": "belajar-upload@racinglaboratory-203506.iam.gserviceaccount.com",
+  "client_id": "103681768982520576530",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/belajar-upload%40racinglaboratory-203506.iam.gserviceaccount.com"
+}
